@@ -1,13 +1,15 @@
-<h1 align="center">Hi I'm Derron</h1>
+<h1 align="center">Hi👋 I'm Derron</h1>
 <h3 align="center">Software and Biomedical Engineering Student from Toronto, Canada</h3>
 
-🌱 About me: <br>
+### 🌱 About me: <br>
 - 🤔 Exploring new ways to approach Software engineering using my Biomedical background
 - ⚡ Currently getting into Open Source development
 - 💕 Full-stack web development
-- 🏂 Snowboarding for 10 years. Getting into Bouldering
+- 🏂 Snowboarding for 10 years. Getting into bouldering
 - 🏋️‍♂️ Enjoys picking up heavy pieces of metal
 - 📖 Currently reading: Can't Hurt Me by David Goggins
+
+<br>
 
 💬 Reach me by email! derronli14@gmail.com
 
