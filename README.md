@@ -1,5 +1,6 @@
 <h1 align="center">Hi👋 I'm Derron</h1>
 <h3 align="center">Software and Biomedical Engineering Student from Toronto, Canada</h3>
+<img align="right" alt="Coding" width="300" height="300" src="https://i.pinimg.com/originals/d4/ab/a6/d4aba6869f7ba1465fe20a635eed839f.jpg" />
 
 ### About me:
 - 🤔 Exploring new ways to approach Software engineering using my Biomedical background
