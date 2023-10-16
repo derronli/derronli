@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 I'm Derron</h1>
 <h3 align="center">Software and Biomedical Engineering Student from Toronto, Canada</h3>
 
-### 🌱 About me: <br>
+### 🌱 About me:
 - 🤔 Exploring new ways to approach Software engineering using my Biomedical background
 - ⚡ Currently getting into Open Source development
 - 💕 Full-stack web development
