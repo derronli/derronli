@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Derron</h1>
-<h3 align="center">Software and Biomedical Engineering Student from Toronto, Canada</h3>
+<h3 align="center">3rd Year Software and Biomedical Engineering Student from Toronto, Canada</h3>
 
 <br>
 <br>  
