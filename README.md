@@ -14,7 +14,7 @@
 ### Interests:
 - 🏂 Snowboarding for 10 years. Getting into bouldering
 - 🏋️‍♂️ Enjoys picking up heavy pieces of metal
-- 📖 Currently reading: Can't Hurt Me by David Goggins
+- 📖 Currently reading: Can't Hurt Me by David Goggins, Hands on Machine Learning by Geron Aurelien
 
 💬 Reach me by email! derronli14@gmail.com
 
